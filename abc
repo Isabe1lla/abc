@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Never Let Me Go - Study Organizer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom right, #ffe6f0, #ff99cc);
+            color: #333;
+        }
+        header {
+            background: #ff6699;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background: #ff99cc;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 30px;
+            padding: 15px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+            color: #ff3366;
+            margin-bottom: 10px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        footer {
+            background: #ff6699;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        #search-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        #search-bar {
+            width: 80%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Never Let Me Go - Study Organizer</h1>
+    </header>
+    <nav>
+        <a href="#setting">Setting</a>
+        <a href="#characters">Characters</a>
+        <a href="#themes">Themes</a>
+        <a href="#important-moments">Important Moments</a>
+        <a href="#questions">Questions</a>
+        <a href="#additional-sections">Additional Sections</a>
+    </nav>
+
+    <div id="search-container">
+        <input type="text" id="search-bar" placeholder="Search the study guide...">
+    </div>
+
+    <main>
+        <section id="setting">
+            <h2>Setting</h2>
+            <ul>
+                <li><strong>Hailsham:</strong> A boarding school representing innocence and ignorance. Example: *“We loved our sports pavilion...”* (p. 7).</li>
+                <li><strong>The Pond:</strong> A place of reflection. Example: *“Once you came out to the pond, you’d find a tranquil atmosphere...”* (p. 25).</li>
+                <li><strong>The Gallery:</strong> A mysterious collection of artwork. Example: *“What is this gallery? Why should she have a gallery of things done by us?”* (p. 31).</li>
+            </ul>
+        </section>
+
+        <section id="characters">
+            <h2>Characters</h2>
+            <ul>
+                <li><strong>Kathy H.:</strong> Empathetic, reflective, and resilient. Example: *“I’ve been getting this urge to order all these old memories.”* (p. 37).</li>
+                <li><strong>Tommy:</strong> Sensitive and impulsive. Example: *“She said I shouldn’t worry. Not mind what other people were saying.”* (p. 27).</li>
+                <li><strong>Ruth:</strong> Ambitious and manipulative, but vulnerable. Example: *“She’s scared of us.”* (p. 33).</li>
+            </ul>
+        </section>
+
+        <section id="themes">
+            <h2>Themes</h2>
+            <ul>
+                <li><strong>Memory and Identity:</strong> Explores how memories shape identity. Example: *“I’ve been getting this urge to order all these old memories.”* (p. 37).</li>
+                <li><strong>Ethics of Science:</strong> Questions the morality of cloning and organ donation. Example: *“What is this gallery?”* (p. 31).</li>
+                <li><strong>Mortality and Purpose:</strong> Addresses the inevitability of death. Example: *“We weren’t being taught enough about what’s going to happen to us one day.”* (p. 29).</li>
+            </ul>
+        </section>
+
+        <section id="important-moments">
+            <h2>Important Moments</h2>
+            <ul>
+                <li>Tommy’s tantrums: Reflects his frustration and rejection. Example: *“Tommy burst into thunderous bellowing...”* (p. 10).</li>
+                <li>Madame’s fear: Highlights the clones’ dehumanization. Example: *“Madame froze and waited for us to pass by...”* (p. 35).</li>
+                <li>Miss Lucy’s frustration: Reveals hints about their future. Example: *“We weren’t being taught enough about what’s going to happen to us one day.”* (p. 29).</li>
+            </ul>
+        </section>
+
+        <section id="questions">
+            <h2>Questions</h2>
+            <ul>
+                <li>Why is creativity so highly valued at Hailsham?</li>
+                <li>What is the purpose of the Gallery?</li>
+                <li>How does Kathy’s reflective tone shape our understanding of her identity?</li>
+            </ul>
+        </section>
+
+        <section id="additional-sections">
+            <h2>Additional Sections</h2>
+            <ul>
+                <li><strong>Symbols:</strong> The Tape - Represents nostalgia. Example: *“I kept listening to it over and over...”* (p. 45).</li>
+                <li><strong>Literary Devices:</strong> Imagery - *“The pavilion reminded us of those sweet little cottages...”* (p. 7).</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Never Let Me Go Study Guide. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
